@@ -7,6 +7,6 @@ Complex neural network with batch normalisation and dropout with 512 nodes in fi
 Simple Convolutional Neural Network.
 Complex ensemble of 15 CNNs combined with data augmentation.
 
-The code was run on Google Colab with GPU hardware accelerator and kaggle's API's were used to download the dataset.
+The code was run on Google Colab with GPU hardware accelerator and kaggle's APIs were used to download the dataset.
 
 The best accuracy achieved was 99.728%,rank of 170 out of more than 3000 participants.
